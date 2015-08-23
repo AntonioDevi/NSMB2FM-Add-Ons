@@ -1,2 +1,0 @@
-#include <windows.h>
-LRESULT CALLBACK WndProc (HWND)
