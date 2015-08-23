@@ -1,2 +1,2 @@
 #include <windows.h>
-LRESULT CALLBACK WndProc (HWND
+LRESULT CALLBACK WndProc (HWND)
